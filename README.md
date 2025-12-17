@@ -1,41 +1,47 @@
-<h1 align="center">😴 lazy_scripts</h1>
+lazy_scripts
 
-<p align="center">
-  <b>Because clicking is hard</b><br>
-  Automate it once, chill forever<br>
-  Peak laziness, real productivity 😌⚡
-</p>
+Because clicking is hard
+Automate it once, chill forever
+Peak laziness, real productivity
 
----
+LeetCode Daily Opener
 
-## 🚀 LeetCode Daily Opener
+A small Python script that opens today’s LeetCode Daily Challenge directly in your browser.
+No searching. No extra steps. Just code.
 
-> A tiny Python script that opens **today’s LeetCode Daily Challenge** for you.  
-> No typing. No searching. Just straight to suffering.
+What it does
 
----
+Fetches today’s Daily Challenge from LeetCode
 
-## 🧠 What it does
-- 🔹 Fetches today’s LeetCode Daily Challenge  
-- 🔹 Opens it instantly in **Google Chrome**  
-- 🔹 Saves time, effort, and mouse clicks
+Opens the problem instantly in Google Chrome
 
----
+Saves time and unnecessary effort
 
-## ⚙️ How it works
-1. 📡 Sends a GraphQL request to LeetCode  
-2. 🔗 Extracts today’s challenge link  
-3. 🌐 Opens it directly in your browser
+How it works
 
----
+Sends a GraphQL request to LeetCode
 
-## 📦 Requirements
-- 🐍 Python 3  
-- 📦 `requests` library  
-- 🌍 Google Chrome
+Extracts the daily problem link
 
----
+Opens it using the browser
 
-## ▶️ Usage
-```bash
+Requirements
+
+Python 3
+
+requests
+
+Google Chrome
+
+Usage
 python leetcode_daily.py
+
+Result
+
+Browser opens
+
+Daily problem loads
+
+You get productive without trying
+
+More lazy scripts coming soon.
